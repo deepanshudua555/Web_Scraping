@@ -13,7 +13,7 @@
 // npm install excel4node
 // npm install pdf-lib
 
-//node Project_1.js --source=https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results --dest=Worldcup.csv --dataDir=WorldCup
+//node Web_scraping_Code.js --source=https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results --dest=Worldcup.csv --dataDir=WorldCup
 
 let minimist = require("minimist");
 let axios = require("axios");
